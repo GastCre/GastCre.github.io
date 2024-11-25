@@ -1,5 +1,5 @@
 # `Mathematica` codes
-This repository contains my Mathematica codes, organised by folders corresponding to the respective paper.
+This repository contains my Mathematica codes, organised by folders corresponding to the respective project.
 
 ## Tidal properties of neutron stars in scalar-tensor theories of gravity
 This folder contains the codes used for the paper [Tidal properties of neutron stars in scalar-tensor theories of gravity](https://inspirehep.net/literature/2690202).
