@@ -7,7 +7,7 @@ This folder contains the codes used for the paper Tidal properties of neutron st
 There are two Mathematica codes:
 - Tidal properties of NS in ST- analytical calculation. This code starts from the scalar-tensor action written in the Einstein frame,
   ```math
-  $$ S_{\rm ST}^{\rm (E)}=\int_{\mathcal{M}}d^4x\sqrt{-g}\left[K_R R_\ast- K_{\varphi} g^{\mu\nu}\partial_\mu\varphi\partial_\nu\varphi\right]+S_{\rm matter}\left[\psi_m,A^2(\varphi)g_{\mu\nu}\right]~.$$
+  $$S_{\rm ST}^{\rm (E)}=\int_{\mathcal{M}}d^4x\sqrt{-g}\left[K_R R_\ast- K_{\varphi} g^{\mu\nu}\partial_\mu\varphi\partial_\nu\varphi\right]+S_{\rm matter}\left[\psi_m,A^2(\varphi)g_{\mu\nu}\right]~.$$
   ```
   
   where
