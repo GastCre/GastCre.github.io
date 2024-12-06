@@ -11,7 +11,7 @@ There are two Mathematica codes:
   - $g_{\mu\nu}$ is the metric in the Einstein frame,
   - $\varphi$ is the scalar field,
   - $A(\varphi)$ is the coupling function defining the theory,
-  - $S_{\rm matter\left[\psi_m,A^2(\varphi)g_{\mu\nu}\right]$ is the matter action containing matter fields $\psi_m$.
+  - $S_{\rm matter}\left[\psi_m,A^2(\varphi)g_{\mu\nu}\right]$ is the matter action containing matter fields $\psi_m$.
   Using xAct, assuming a perfect-fluid energy-momentum tensor $T_{\mu\nu}$, it computes the scalar field equations of motion, the modified Einstein field equations, and the modified energy-momentum conservation:
   $G_{\mu\nu}&=\frac{1}{2K_R}T_{\mu\nu}+\frac{K_\varphi}{K_R}T^{\varphi}_{\mu\nu}~$,
   $\Box\varphi&=\frac{1}{2K_\varphi}\alpha(\varphi) T~,$
