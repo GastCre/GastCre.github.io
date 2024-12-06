@@ -9,8 +9,7 @@ There are two Mathematica codes:
   ```math
   \begin{align}
   S_{\rm ST}^{\rm (E)}=\int_{\mathcal{M}}d^4x\sqrt{-g}\left[K_R R_\ast- K_{\varphi} g^{\mu\nu}\partial_\mu\varphi\partial_\nu\varphi\right]+S_{\rm matter}\left[\psi_m,A^2(\varphi)g_{\mu\nu}\right]~.
-  \end{align}
-  
+  \end{align}```
   where
   - $g_{\mu\nu}$ is the metric in the Einstein frame,
   - $\varphi$ is the scalar field,
