@@ -24,7 +24,7 @@ There are two Mathematica codes:
   \begin{align}
   &G_{\mu\nu}=\frac{1}{2K_R} T_{\mu\nu}+\frac{K_\varphi}{K_R} T^{\varphi}_{\mu\nu}~,\\
   &\Box\varphi=-\frac{1}{2K_\varphi}\frac{A'(\varphi)}{A(\varphi)} T,\\
-  &\nabla^\mu T_{\mu\nu}=\frac{A'(\varphi)}{A(\varphi)} T \partial_\nu\varphi,
+  &\nabla^\mu T_{\mu\nu}=\frac{A'(\varphi)}{A(\varphi)} T~\partial_\nu\varphi,
   \end{align}
 ```
   with $T_{\mu\nu}^{\varphi}$ the energy-momentum tensor of the scalar field. Then, it uses perturbation theory to split the metric and scalar field into a background piece and a perturbation,
