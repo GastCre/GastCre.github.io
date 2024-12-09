@@ -27,7 +27,7 @@ There are two Mathematica codes:
   &\nabla^\mu T_{\mu\nu}=\frac{A'(\varphi)}{A(\varphi)} T~\partial_\nu\varphi,
   \end{align}
 ```
-  with $T_{\mu\nu}^{\varphi}$ the energy-momentum tensor of the scalar field. Then, it uses perturbation theory to split the metric and scalar field into a background piece and a perturbation,
+  with $T_{\mu\nu}^{\varphi}$ the energy-momentum tensor of the scalar field and $T=T_{\mu}^{\mu}$. Then, it uses perturbation theory to split the metric and scalar field into a background piece and a perturbation,
   ```math
   \begin{align}
     g_{\mu\nu}&={g_{\mu\nu}}^{(0)}+\epsilon~\sum_{\ell,m}{h_{\mu\nu}^{\ell m}}(r)~Y_{\ell}^m(\theta,\phi)~,\\
